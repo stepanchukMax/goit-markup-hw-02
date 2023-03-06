@@ -1,5 +1,6 @@
 body{
     font-family: Roboto sans-serif;
+    color:#434455;
 }
 
 .list {
@@ -19,9 +20,10 @@ body{
     color: #2E2F42;
 }
 .header-logo{
-    font-weight: 800;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
     font-size: 18px;
-    line-height: 1.33;
+    line-height: 1.17;
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
@@ -33,9 +35,10 @@ body{
 }
 
 .footer-logo{
+    font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.67;
+    line-height: 1.17;
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
@@ -125,6 +128,7 @@ body{
 /**------------COMPANY_POLICY---------------*/
 
 .company-policy-title {
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
