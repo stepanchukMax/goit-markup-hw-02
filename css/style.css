@@ -1,5 +1,5 @@
 body{
-    font-family: 'Roboto' sans-serif;
+    font-family: "Roboto" sans-serif;
     color:#434455;
 }
 
@@ -121,7 +121,8 @@ body{
 }
 
 .hero-btn{
-    background: #E7E9FC;
+    font-family: inherit;
+    background: #ffffff;
 }
 
 
