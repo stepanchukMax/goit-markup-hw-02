@@ -1,5 +1,5 @@
 body{
-    font-family: "Roboto",sans-serif;
+    font-family: "Roboto" sans-serif;
     color:#434455;
 }
 
@@ -162,6 +162,9 @@ body{
 
 
 /*!---------------------PORTFOLIO-PAGE-------------------*/
+.team-titile{
+    font-weight: 500
+}
 .item-title{
     font-size: 20px;
     line-height: 1.2;
