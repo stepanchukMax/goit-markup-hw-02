@@ -137,9 +137,22 @@ body{
 
 .hero-btn{
     font-family: inherit;
-    background: #ffffff;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    background: #4D5AE5;
 }
 
+.hero-btn:hover,
+.hero-btn:focus{
+    color:#FFFFFF; ;
+    background-color:#404BBF;
+}
 
 /**------------COMPANY_POLICY---------------*/
 
