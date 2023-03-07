@@ -103,6 +103,10 @@ body{
     color: #2E2F42;
 }
 
+.header-item-link{
+    color:#2e2f42;
+}
+
 .address {
     font-style: normal;
 }
