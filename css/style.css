@@ -102,7 +102,9 @@ body{
     font-style: normal;
 }
 
-.address-list {}
+.address-item-link {
+    color:#434455;
+}
 
 .address-item {
     font-size: 16px;
@@ -112,6 +114,11 @@ body{
 }
 
 .address-item:hover{
+    color:#404bbf;
+}
+
+.header-item-link:hover,
+.header-item-link:focus{
     color:#404bbf;
 }
 
